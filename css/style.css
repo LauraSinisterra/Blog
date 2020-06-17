@@ -98,6 +98,9 @@
  ul {
    list-style-type: none;
  }
+.with {
+  list-style-type: circle;
+}
  
  a {
      color: rgba(0, 129, 172, 0.85);
